@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rubis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rubis\\.nuget\\packages"
+    ]
+  }
+}
